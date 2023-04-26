@@ -71,6 +71,6 @@ public class InfluxdbConstants extends SQLConstants {
         replaceMap.put("NAME","\"NAME\"");
     }
 
-    public static final String INFLUXDB_SQL_TEMPLATE = "/default/influxdbDriver/infludbPluginSqltemplate.stg";
+    public static final String INFLUXDB_SQL_TEMPLATE = "/thirdpart/influxdbDriver/infludbPluginSqltemplate.stg";
 
 }
